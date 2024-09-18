@@ -14,4 +14,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiseiue&theme=gruvbox)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=taiseiue&theme=gruvbox)
