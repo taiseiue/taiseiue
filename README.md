@@ -7,11 +7,11 @@
 
 - [WSOFT](https://wsoft.ws/)
 - [Portfolio](https://a.wsoft.ws/taiseiue)
+- [X](https://x.com/taiseiue)
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiseiue&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taiseiue&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiseiue&theme=gruvbox)
+![taiseiue's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiseiue&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiseiue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=taiseiue&theme=gruvbox)
