@@ -5,8 +5,9 @@
 ## About
 ほどほどに存在してます。大学生です。がんばります。
 
+- [About me](https://taiseiue.pages.dev/)
 - [WSOFT](https://wsoft.ws/)
-- [Portfolio](https://a.wsoft.ws/taiseiue)
+- [About me](https://a.wsoft.ws/taiseiue) (In Japanese)
 - [X](https://x.com/taiseiue)
 
 ## Stats
