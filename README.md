@@ -18,7 +18,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiseiue&theme=tokyonight&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=taiseiue&theme=darkhub&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=taiseiue&theme=darkhub)
 
 ## Skills
 <p align="center">
