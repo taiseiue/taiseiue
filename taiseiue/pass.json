@@ -20,33 +20,33 @@
       {
         "key": "p1",
         "label": "Member",
-        "value": "Member 3592"
+        "value": "Taisei Uemura"
       }
     ],
     "secondaryFields": [
       {
         "key": "s1",
-        "label": "Tier",
-        "value": "Platinum"
+        "label": "Twitter",
+        "value": "@taiseiue"
       },
       {
         "key": "s2",
-        "label": "Member ID",
-        "value": "VS-001428"
+        "label": "email",
+        "value": "taiseiue@wsnet.jp"
       }
     ],
     "auxiliaryFields": [
       {
         "key": "a1",
-        "label": "Visits",
-        "value": "24"
+        "label": "Age",
+        "value": "20"
       }
     ],
     "backFields": [
       {
         "key": "b1",
-        "label": "Terms",
-        "value": "Membership is non-transferable. Cancellation requires 30 days written notice.",
+        "label": "TEXT",
+        "value": "これはテキストだよ",
         "dataDetectorTypes": []
       }
     ]
@@ -55,9 +55,9 @@
   "barcodes": [
     {
       "format": "PKBarcodeFormatQR",
-      "message": "VS-001428",
+      "message": "https://taiseiue.jp",
       "messageEncoding": "iso-8859-1",
-      "altText": "VS-001428"
+      "altText": "Homepage"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",
