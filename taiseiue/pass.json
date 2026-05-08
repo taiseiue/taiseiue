@@ -12,8 +12,9 @@
     "headerFields": [
       {
         "key": "h1",
-        "label": "Credit",
-        "value": "$120"
+        "label": "TWITTER",
+        "value": "𝕏",
+        "attributedValue": "<a href=\"https://x.com/taiseiue\">𝕏</a>"
       }
     ],
     "primaryFields": [
