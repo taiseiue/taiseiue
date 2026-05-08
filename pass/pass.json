@@ -5,8 +5,8 @@
   "serialNumber": "3F315958F0F2E417",
   "organizationName": "taiseiue",
   "description": "Apple Wallet pass project",
-  "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "rgb(15, 23, 42)",
+  "foregroundColor": "rgb(248, 250, 252)",
+  "backgroundColor": "rgb(51, 65, 85)",
   "labelColor": "rgb(148, 163, 184)",
   "generic": {
     "headerFields": [
