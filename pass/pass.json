@@ -1,0 +1,66 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.mk.local",
+  "teamIdentifier": "9733K94JUG",
+  "serialNumber": "3F315958F0F2E417",
+  "organizationName": "taiseiue",
+  "description": "Apple Wallet pass project",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(15, 23, 42)",
+  "labelColor": "rgb(148, 163, 184)",
+  "generic": {
+    "headerFields": [
+      {
+        "key": "h1",
+        "label": "TWITTER",
+        "value": "𝕏",
+        "attributedValue": "<a href=\"https://x.com/taiseiue\">𝕏</a>"
+      }
+    ],
+    "primaryFields": [
+      {
+        "key": "p1",
+        "label": "Member",
+        "value": "Taisei Uemura"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "s1",
+        "label": "Twitter",
+        "value": "@taiseiue"
+      },
+      {
+        "key": "s2",
+        "label": "email",
+        "value": "taiseiue@wsnet.jp"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "a1",
+        "label": "Age",
+        "value": "20"
+      }
+    ],
+    "backFields": [
+      {
+        "key": "b1",
+        "label": "TEXT",
+        "value": "これはテキストだよ",
+        "dataDetectorTypes": []
+      }
+    ]
+  },
+  "logoText": "taiseiue",
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatQR",
+      "message": "https://taiseiue.jp",
+      "messageEncoding": "iso-8859-1",
+      "altText": "Homepage"
+    }
+  ],
+  "webServiceURL": "https://example.invalid/passkit",
+  "authenticationToken": "0000000000000000"
+}
